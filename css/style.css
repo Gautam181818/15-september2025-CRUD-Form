@@ -1,0 +1,23 @@
+table{
+    width: 100%;
+    margin: auto;
+}
+.bookstore{
+    width: 50%;
+    margin-left: 20px;
+
+}
+.addnewbook{
+    margin-left: 1350px;
+    background-color: green;
+    color: #fff;
+    font-size: 1.25em;
+    position: absolute;
+    bottom: 40px;
+    border-radius: 5px;
+}
+.heading{
+    height: 100px;
+    background-color: #425d7e;
+    position: relative;
+}
